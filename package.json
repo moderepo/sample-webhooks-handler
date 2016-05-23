@@ -1,0 +1,14 @@
+{
+  "name": "mode-sample-webhooks-handler",
+  "description": "A sample webhooks handler for MODE projects.",
+  "version": "1.0.0",
+  "main": "sample",
+  "scripts": {
+    "start": "node sample"
+  },
+  "engines": {
+    "node": ">=4.1.2"
+  },
+  "dependencies" : {
+  }
+}
